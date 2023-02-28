@@ -2,5 +2,5 @@ hello git! hello bingtang! 22222
 hello git! hello bingtang! 33333
 hello git! hello bingtang!
 hello git! hello bingtang!
-hello git! hello bingtang!
 hello git! hello bingtang! master test
+hello git! hello bingtang! hot-fix test
